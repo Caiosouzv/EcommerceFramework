@@ -1,0 +1,64 @@
+{
+    "tenis": [
+      {
+        "id": 1,
+        "nome": "Nike Air Max 270",
+        "imagem": "https://imgnike-a.akamaihd.net/1300x1300/01634954A6.jpg",
+        "preco": 799.99
+      },
+      {
+        "id": 2,
+        "nome": "Nike Air Force 1",
+        "imagem": "https://imgnike-a.akamaihd.net/1300x1300/011137IDA10.jpg",
+        "preco": 649.99
+      },
+      {
+        "id": 3,
+        "nome": "Nike Dunk Low Retro",
+        "imagem": "https://imgnike-a.akamaihd.net/1920x1920/0245955A.jpg",
+        "preco": 729.99
+      },
+      {
+        "id": 4,
+        "nome": "Nike ZoomX Vaporfly Next% 2",
+        "imagem": "https://imgnike-a.akamaihd.net/1920x1920/010171IM.jpg",
+        "preco": 1499.99
+      },
+      {
+        "id": 5,
+        "nome": "Nike Pegasus 39",
+        "imagem": "https://imgnike-a.akamaihd.net/1920x1920/021832IE.jpg",
+        "preco": 599.99
+      },
+      {
+        "id": 6,
+        "nome": "Nike Blazer Mid '77 Vintage",
+        "imagem": "https://imgnike-a.akamaihd.net/1300x1300/00669651A10.jpg",
+        "preco": 549.99
+      },
+      {
+        "id": 7,
+        "nome": "Nike Air Jordan 4 Retro Remastered",
+        "imagem": "https://imgnike-a.akamaihd.net/1300x1300/02986551A9.jpg",
+        "preco": 2715.00
+      },
+      {
+        "id": 8,
+        "nome": "Nike LeBron 19",
+        "imagem": "https://imgnike-a.akamaihd.net/1300x1300/01299315A8.jpg",
+        "preco": 1299.99
+      },
+      {
+        "id": 9,
+        "nome": "Nike SB Dunk Low Pro",
+        "imagem": "https://imgnike-a.akamaihd.net/1920x1920/025458P1.jpg",
+        "preco": 699.99
+      },
+      {
+        "id": 10,
+        "nome": "Nike Air VaporMax 2021 Flyknit",
+        "imagem": "https://imgcentauro-a.akamaihd.net/900x900/M0PLNG52/tenis-nike-air-vapormax-2021-flyknit-masculino-img.jpg",
+        "preco": 1099.99
+      }
+    ]
+  }
